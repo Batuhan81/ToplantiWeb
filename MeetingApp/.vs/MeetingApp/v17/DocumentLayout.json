@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|c:\\users\\batuhan\\desktop\\d\u00F6nemlik staj\\yapt\u0131klar\u0131m\\meetingapp\\meetingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|c:\\users\\batuhan\\desktop\\d\u00F6nemlik staj\\yapt\u0131klar\u0131m\\meetingapp\\meetingapp\\wwwroot\\cssim\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\wwwroot\\cssim\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|c:\\users\\batuhan\\desktop\\d\u00F6nemlik staj\\yapt\u0131klar\u0131m\\meetingapp\\meetingapp\\views\\meeting\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\meeting\\apply.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|c:\\users\\batuhan\\desktop\\d\u00F6nemlik staj\\yapt\u0131klar\u0131m\\meetingapp\\meetingapp\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|c:\\users\\batuhan\\desktop\\d\u00F6nemlik staj\\yapt\u0131klar\u0131m\\meetingapp\\meetingapp\\views\\meeting\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\meeting\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|c:\\users\\batuhan\\desktop\\d\u00F6nemlik staj\\yapt\u0131klar\u0131m\\meetingapp\\meetingapp\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\controllers\\meetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|c:\\users\\batuhan\\desktop\\d\u00F6nemlik staj\\yapt\u0131klar\u0131m\\meetingapp\\meetingapp\\views\\meeting\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\meeting\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|c:\\users\\batuhan\\desktop\\d\u00F6nemlik staj\\yapt\u0131klar\u0131m\\meetingapp\\meetingapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|c:\\users\\batuhan\\desktop\\d\u00F6nemlik staj\\yapt\u0131klar\u0131m\\meetingapp\\meetingapp\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|c:\\users\\batuhan\\desktop\\d\u00F6nemlik staj\\yapt\u0131klar\u0131m\\meetingapp\\meetingapp\\views\\meeting\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{887095FE-7C11-4E26-834D-D5E1ABC278B2}|MeetingApp\\MeetingApp.csproj|solutionrelative:meetingapp\\views\\meeting\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MeetingApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MeetingApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T11:29:07.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\wwwroot\\cssim\\Style.css",
+              "RelativeDocumentMoniker": "MeetingApp\\wwwroot\\cssim\\Style.css",
+              "ToolTip": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\wwwroot\\cssim\\Style.css",
+              "RelativeToolTip": "MeetingApp\\wwwroot\\cssim\\Style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-07T11:28:48.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Apply.cshtml",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Views\\Meeting\\Apply.cshtml",
+              "RelativeDocumentMoniker": "MeetingApp\\Views\\Meeting\\Apply.cshtml",
+              "ToolTip": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Views\\Meeting\\Apply.cshtml",
+              "RelativeToolTip": "MeetingApp\\Views\\Meeting\\Apply.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T11:18:20.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Views\\Meeting\\Details.cshtml",
+              "RelativeDocumentMoniker": "MeetingApp\\Views\\Meeting\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Views\\Meeting\\Details.cshtml",
+              "RelativeToolTip": "MeetingApp\\Views\\Meeting\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T10:56:44.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "MeetingApp\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Models\\Repository.cs",
+              "RelativeToolTip": "MeetingApp\\Models\\Repository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwCoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:43:04.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Views\\Meeting\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "MeetingApp\\Views\\Meeting\\Thanks.cshtml",
+              "ToolTip": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Views\\Meeting\\Thanks.cshtml",
+              "RelativeToolTip": "MeetingApp\\Views\\Meeting\\Thanks.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T09:40:46.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MeetingApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MeetingApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:37:58.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeetingController.cs",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Controllers\\MeetingController.cs",
+              "RelativeDocumentMoniker": "MeetingApp\\Controllers\\MeetingController.cs",
+              "ToolTip": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Controllers\\MeetingController.cs",
+              "RelativeToolTip": "MeetingApp\\Controllers\\MeetingController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:24:20.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "MeetingApp\\Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Models\\UserInfo.cs",
+              "RelativeToolTip": "MeetingApp\\Models\\UserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T09:22:07.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Views\\Meeting\\List.cshtml",
+              "RelativeDocumentMoniker": "MeetingApp\\Views\\Meeting\\List.cshtml",
+              "ToolTip": "C:\\Users\\Batuhan\\Desktop\\D\u00F6nemlik Staj\\Yapt\u0131klar\u0131m\\MeetingApp\\MeetingApp\\Views\\Meeting\\List.cshtml",
+              "RelativeToolTip": "MeetingApp\\Views\\Meeting\\List.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAASwBYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T08:03:41.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

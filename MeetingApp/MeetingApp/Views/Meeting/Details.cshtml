@@ -1,0 +1,26 @@
+﻿@model UserInfo
+@{
+    ViewData["Title"] = "Başvuru Detayı";
+}
+@{
+    var className = Model.WhillAttend == true ? "primary" : "danger";
+}
+<main class="text-center">
+    <h1 class="h4">Başvuru Detayı</h1>
+    <span class="badge text-bg-@className">
+        @if (Model.WhillAttend == true)
+        {
+            <text>Katılıyor</text>
+        }
+        else
+        {
+            <text>katılmıyor</text>
+        }
+    </span>
+    <p>İsim:@Model.Name</p>
+    <p>İsim:@Model.Email</p>
+    <p>İsim:@Model.Phone</p>
+    <a asp-controller="Meeting" asp-action="List" class="btn btn-outline-@className">Katılımcı Listesi</a>
+</main>
+
+
